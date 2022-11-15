@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="MIT"
+[[mods]]
+modId="extendedflora"
+version="${file.jarVersion}"
+displayName="Extended Flora"
+credits="Thanks for the tutorials Kaupenjoe"
+authors="melvinbur"
+description='''
+adds a bunch of flora to the game
+'''
+[[dependencies.extendedflora]]
+    modId="forge"
+    mandatory=true
+    versionRange="[43,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.extendedflora]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.2,1.20)"
+    ordering="NONE"
+    side="BOTH"
