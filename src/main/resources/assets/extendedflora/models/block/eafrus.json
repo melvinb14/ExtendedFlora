@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/cross",
+    "textures": {
+        "cross": "extendedflora:block/eafrus"
+    },
+    "render_type": "cutout"
+}

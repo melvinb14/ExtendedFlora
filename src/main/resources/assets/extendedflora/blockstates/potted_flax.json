@@ -1,5 +1,5 @@
 {
   "variants": {
-    "": { "model": "archbows:block/potted_flax" }
+    "": { "model": "extendedflora:block/potted_flax" }
   }
 }

@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:block/cross",
   "textures": {
-    "cross": "archbows:block/flax"
+    "cross": "extendedflora:block/flax"
   },
   "render_type": "cutout"
 }

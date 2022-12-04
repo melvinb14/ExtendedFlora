@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "extendedflora:block/scorpion_weed"
+  },
+  "render_type": "cutout"
+}

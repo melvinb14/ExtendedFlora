@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "white_dye",
+  "ingredients": [
+    {
+      "item": "extendedflora:aaslard"
+    }
+  ],
+  "result": {
+    "item": "minecraft:white_dye"
+  }
+}
+

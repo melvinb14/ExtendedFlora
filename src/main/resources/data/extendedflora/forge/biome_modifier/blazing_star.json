@@ -1,0 +1,18 @@
+{
+  "type": "extendedflora:biome_modifier_serializer",
+  "biomes": [
+    "#forge:is_sandy",
+    []
+  ],
+  "blacklist": [
+    [
+      "minecraft:beach",
+      "minecraft:badlands",
+      "minecraft:wooded_badlands"
+    ]
+  ],
+  "configOption": "enableBlazingStar",
+  "decoration": "vegetal_decoration",
+  "dimension": "minecraft:is_overworld",
+  "feature": "extendedflora:blazing_star"
+}

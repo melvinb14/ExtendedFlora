@@ -1,0 +1,8 @@
+{
+    "parent": "block/flower_pot_cross",
+    "textures": {
+        "plant": "extendedflora:item/demacia",
+        "dirt": "block/dirt"
+    },
+    "render_type": "cutout"
+}

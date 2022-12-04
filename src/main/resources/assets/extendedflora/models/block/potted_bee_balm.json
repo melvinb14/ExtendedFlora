@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/flower_pot_cross",
+  "textures": {
+    "plant": "extendedflora:block/bee_balm"
+  },
+  "render_type": "cutout"
+}

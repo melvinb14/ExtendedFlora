@@ -7,11 +7,11 @@
     ],
     "key": {
         "#": {
-            "item": "archbows:flax"
+            "item": "extendedflora:flax"
         }
     },
     "result": {
-        "item": "archbows:flax_seeds",
+        "item": "extendedflora:flax_seeds",
         "count": 1
     }
 }

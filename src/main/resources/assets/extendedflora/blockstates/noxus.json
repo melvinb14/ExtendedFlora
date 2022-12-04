@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "extendedflora:block/noxus" },
+        "facing=east": { "model": "extendedflora:block/noxus", "y": 270},
+        "facing=south": { "model": "extendedflora:block/noxus", "y": 180 },
+        "facing=west": { "model": "extendedflora:block/noxus", "y": 90 }
+    }
+}

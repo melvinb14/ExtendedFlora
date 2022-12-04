@@ -1,0 +1,15 @@
+{
+  "type": "extendedflora:biome_modifier_serializer",
+  "biomes": [
+    "#minecraft:is_overworld",
+    []
+  ],
+  "blacklist": [
+    "#forge:is_mushroom",
+    "minecraft:snowy_plains"
+  ],
+  "configOption": "enableMoreGrass",
+  "decoration": "vegetal_decoration",
+  "dimension": "minecraft:is_overworld",
+  "feature": "extendedflora:more_grass"
+}

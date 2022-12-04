@@ -1,0 +1,7 @@
+{
+  "parent": "extendedflora:block/cross_tinted",
+  "textures": {
+    "cross": "extendedflora:block/bush0"
+  },
+  "render_type": "cutout"
+}

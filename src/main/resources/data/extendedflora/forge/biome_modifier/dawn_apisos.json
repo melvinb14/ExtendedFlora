@@ -1,0 +1,14 @@
+{
+  "type": "extendedflora:biome_modifier_serializer",
+  "biomes": [
+    "minecraft:small_end_islands",
+    []
+  ],
+  "blacklist": [
+    []
+  ],
+  "configOption": "enableDawnApisos",
+  "decoration": "vegetal_decoration",
+  "dimension": "minecraft:is_end",
+  "feature": "extendedflora:dawn_apisos"
+}

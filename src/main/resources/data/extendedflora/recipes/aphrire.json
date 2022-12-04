@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "magenta_dye",
+  "ingredients": [
+    {
+      "item": "extendedflora:aphrire"
+    }
+  ],
+  "result": {
+    "item": "minecraft:magenta_dye"
+  }
+}
+

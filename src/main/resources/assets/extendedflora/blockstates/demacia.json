@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "extendedflora:block/demacia" },
+        "facing=east": { "model": "extendedflora:block/demacia", "y": 270},
+        "facing=south": { "model": "extendedflora:block/demacia", "y": 180 },
+        "facing=west": { "model": "extendedflora:block/demacia", "y": 90 }
+    }
+}

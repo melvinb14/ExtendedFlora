@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "extendedflora:block/beach_aster"
+  },
+  "render_type": "cutout"
+}

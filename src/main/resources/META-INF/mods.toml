@@ -8,7 +8,7 @@ displayName="Extended Flora"
 credits="Thanks for the tutorials Kaupenjoe"
 authors="melvinbur"
 description='''
-adds a bunch of flora to the game
+Adds a bunch of flora to the game
 '''
 [[dependencies.extendedflora]]
     modId="forge"

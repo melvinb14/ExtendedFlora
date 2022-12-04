@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "gray_dye",
+  "ingredients": [
+    {
+      "item": "extendedflora:scorpion_weed"
+    }
+  ],
+  "result": {
+    "item": "minecraft:gray_dye"
+  }
+}
+

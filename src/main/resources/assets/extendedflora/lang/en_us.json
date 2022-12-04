@@ -1,12 +1,106 @@
 {
   "itemGroup.extendedfloraTab": "Extended Flora",
 
-  "block.archbows.flax": "Flax",
-  "item.archbows.flax_seeds": "Flax Seeds",
-  "block.archbows.flax_crop": "Flax",
-
-  "item.archbows.flax_fiber": "Flax Fiber",
-  "block.archbows.twig": "Twig"
+  "item.extendedflora.flax_seeds": "Blue Flax Seeds",
+  "item.extendedflora.flax_fiber": "Bundle of Blue Flax",
 
 
+
+
+  "item.extendedflora.gorse": "Gorse",
+  "item.extendedflora.geranium": "Purple Geranium",
+  "item.extendedflora.beach_aster": "Pink Beach Aster",
+  "item.extendedflora.bee_balm": "Red Bee Balm",
+  "item.extendedflora.nettle": "Nettle",
+  "item.extendedflora.flax": "Blue Flax",
+  "item.extendedflora.more_grass": "Plant",
+  "item.extendedflora.bush": "Bush",
+  "item.extendedflora.noxus": "Noxus",
+  "item.extendedflora.ixtal": "Ixtal",
+  "item.extendedflora.demacia": "Demacia",
+  "item.extendedflora.eafrus": "Eafrus",
+  "item.extendedflora.phore": "Phore",
+  "item.extendedflora.krard": "Krard",
+  "item.extendedflora.aaslard": "Aaslard",
+  "item.extendedflora.nether_plant": "Nether Plant",
+  "item.extendedflora.blazing_star": "Blazing Star",
+  "item.extendedflora.brown_eyes": "Brown Eyes",
+  "item.extendedflora.scorpion_weed": "Scorpion Weed",
+  "item.extendedflora.aphrire": "Aphrire",
+  "item.extendedflora.dawn_apisos": "Dawn Apisos",
+  "item.extendedflora.eekore": "Eekore",
+  "item.extendedflora.ibine": "Ibine",
+  "item.extendedflora.zoxary": "Zoxary",
+  "item.extendedflora.ender_plant": "Ender Plant",
+
+
+
+  "item.extendedflora.potted_gorse": "Potted Gorse",
+  "item.extendedflora.potted_geranium": "Potted Purple Geranium",
+  "item.extendedflora.potted_beach_aster": "Potted Pink Beach Aster",
+  "item.extendedflora.potted_bee_balm": "Potted Red Bee Balm",
+  "item.extendedflora.potted_flax": "Potted Blue Flax",
+  "item.extendedflora.potted_blazing_star": "Potted Blazing Star",
+  "item.extendedflora.potted_brown_eyes": "Potted Brown Eyes",
+  "item.extendedflora.potted_scorpion_weed": "Potted Scorpion Weed",
+  "item.extendedflora.potted_demacia": "Potted Demacia",
+  "item.extendedflora.potted_ixtal": "Potted Ixtal",
+  "item.extendedflora.potted_aaslard": "Potted Aaslard",
+  "item.extendedflora.potted_krard": "Potted Krard",
+  "item.extendedflora.potted_eafrus": "Potted Eafrus",
+  "item.extendedflora.potted_aphrire": "Potted Aphrire",
+  "item.extendedflora.potted_noxus": "Potted Noxus",
+  "item.extendedflora.potted_eekore": "Potted Eekore",
+  "item.extendedflora.potted_ibine": "Potted Ibine",
+  "item.extendedflora.potted_zoxary": "Potted Zoxary",
+  "item.extendedflora.potted_dawn_apisos": "Potted Dawn Apisos",
+
+
+
+
+
+  "block.extendedflora.gorse": "Gorse",
+  "block.extendedflora.geranium": "Purple Geranium",
+  "block.extendedflora.beach_aster": "Pink Beach Aster",
+  "block.extendedflora.bee_balm": "Red Bee Balm",
+  "block.extendedflora.nettle": "Nettle",
+  "block.extendedflora.flax": "Blue Flax",
+  "block.extendedflora.more_grass": "Plant",
+  "block.extendedflora.bush": "Bush",
+  "block.extendedflora.eafrus": "Eafrus",
+  "block.extendedflora.phore": "Phore",
+  "block.extendedflora.krard": "Krard",
+  "block.extendedflora.aaslard": "Aaslard",
+  "block.extendedflora.nether_plant": "Nether Plant",
+  "block.extendedflora.blazing_star": "Blazing Star",
+  "block.extendedflora.brown_eyes": "Brown Eyes",
+  "block.extendedflora.scorpion_weed": "Scorpion Weed",
+  "block.extendedflora.aphrire": "Aphrire",
+  "block.extendedflora.dawn_apisos": "Dawn Apisos",
+  "block.extendedflora.eekore": "Eekore",
+  "block.extendedflora.ibine": "Ibine",
+  "block.extendedflora.zoxary": "Zoxary",
+  "block.extendedflora.ender_plant": "Ender Plant",
+
+
+
+  "block.extendedflora.potted_gorse": "Potted Gorse",
+  "block.extendedflora.potted_geranium": "Potted Purple Geranium",
+  "block.extendedflora.potted_beach_aster": "Potted Pink Beach Aster",
+  "block.extendedflora.potted_bee_balm": "Potted Red Bee Balm",
+  "block.extendedflora.potted_flax": "Potted Blue Flax",
+  "block.extendedflora.potted_blazing_star": "Potted Blazing Star",
+  "block.extendedflora.potted_brown_eyes": "Potted Brown Eyes",
+  "block.extendedflora.potted_scorpion_weed": "Potted Scorpion Weed",
+  "block.extendedflora.potted_demacia": "Potted Demacia",
+  "block.extendedflora.potted_ixtal": "Potted Ixtal",
+  "block.extendedflora.potted_aaslard": "Potted Aaslard",
+  "block.extendedflora.potted_krard": "Potted Krard",
+  "block.extendedflora.potted_eafrus": "Potted Eafrus",
+  "block.extendedflora.potted_aphrire": "Potted Aphrire",
+  "block.extendedflora.potted_noxus": "Potted Noxus",
+  "block.extendedflora.potted_eekore": "Potted Eekore",
+  "block.extendedflora.potted_ibine": "Potted Ibine",
+  "block.extendedflora.potted_zoxary": "Potted Zoxary",
+  "block.extendedflora.potted_dawn_apisos": "Potted Dawn Apisos"
 }

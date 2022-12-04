@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/cross",
+    "textures": {
+        "cross": "extendedflora:block/aphrire"
+    },
+    "render_type": "cutout"
+}

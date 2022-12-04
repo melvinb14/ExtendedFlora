@@ -1,6 +1,22 @@
 {
   "replace": false,
   "values": [
-    "archbows:flax"
+    "extendedflora:flax",
+    "extendedflora:gorse",
+    "extendedflora:geranium",
+    "extendedflora:beach_aster",
+    "extendedflora:bee_balm",
+    "extendedflora:blazing_star",
+    "extendedflora:brown_eyes",
+    "extendedflora:scorpion_weed",
+    "extendedflora:aaslard",
+    "extendedflora:krard",
+    "extendedflora:eafrus",
+    "extendedflora:aphrire",
+    "extendedflora:phore",
+    "extendedflora:eekore",
+    "extendedflora:ibine",
+    "extendedflora:zoxary",
+    "extendedflora:dawn_apisos"
   ]
 }

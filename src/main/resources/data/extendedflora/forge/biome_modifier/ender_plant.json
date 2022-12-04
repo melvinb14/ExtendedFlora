@@ -1,0 +1,13 @@
+{
+  "type": "extendedflora:biome_modifier_serializer",
+  "biomes": [
+    "#minecraft:is_end",
+    []
+  ],
+  "blacklist": [
+  ],
+  "configOption": "enableEnderPlant",
+  "decoration": "vegetal_decoration",
+  "dimension": "minecraft:is_end",
+  "feature": "extendedflora:ender_plant"
+}

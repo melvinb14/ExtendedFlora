@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "yellow_dye",
+  "ingredients": [
+    {
+      "item": "extendedflora:blazing_star"
+    }
+  ],
+  "result": {
+    "item": "minecraft:yellow_dye"
+  }
+}
+
